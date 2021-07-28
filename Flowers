@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">  
+	<title>Practica 3</title>
+	<link rel="stylesheet" href="practica-3.css" class="stylesheet">
+</head>
+
+<body>
+	
+<div class="header">
+	
+	<div class="caja">
+		<ul>
+	<li><a href="#">Home</a></li>
+	<li><a href="#">About us</a></li>
+	<li><a href="#">Contact us</a></li>
+	</ul>
+	</div>
+
+</div>
+
+<div class="container">
+	
+
+
+<div class="main">
+
+	<div class="imagen">
+
+	<img src="img/flower.jpg" alt="flower" width="660px">
+	</div>
+
+	<div class="texto">
+		
+		<h2> Traversée de fleurs </h2>
+		<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio, amet, nostrum? Quas sequi, nihil pariatur veniam totam, vero deleniti, iure ipsam porro, delectus possimus voluptates architecto? Recusandae beatae adipisci sint.</p><br>
+
+		<button class="btn">KNOW MORE!</button>
+
+
+	</div>
+</div>
+
+</div>
+
+</body>
+</html>
